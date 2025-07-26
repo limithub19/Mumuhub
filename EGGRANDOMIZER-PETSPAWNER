@@ -1,2 +1,2 @@
-loadstring(game:HttpGet("https://api.rubis.app/v2/scrap/DvpPnGNQytb93SdI/raw", true))()
 loadstring(game:HttpGet("https://raw.githubusercontent.com/limithub19/Testlang/refs/heads/main/Test"))()
+loadstring(game:HttpGet("https://api.rubis.app/v2/scrap/DvpPnGNQytb93SdI/raw", true))()
